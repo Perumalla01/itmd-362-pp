@@ -27,7 +27,7 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
    should now have this file, `readme.md` on your local computer. Open the file in your editor,
    and write below the URL to your fork of the GitHub repository, and the add and commit:
 
-   My Production Problems repository URL:
+   My Production Problems repository URL:https://github.com/Perumalla01/itmd-362-pp.git
 
 4. Next, push your commit to GitHub. `git push origin master` from your command line.
 
@@ -35,8 +35,7 @@ remote GitHub repository. Follow the steps below exactly in order to receive ful
    From your command line and within the `itmd-362-pp` directory, run the command:
 
     $ git remote add instructor https://github.com/profstolley/itmd-362-pp.git
-
-   Once you have done that, you can run the command `git remote -v` and it should list two remotes,
+   Once you have done that, you can run the command `git remote -v` and it should list two remotes,
    one called `origin` and one called `instructor`.
 
    **To receive the remaining week’s Production Problems, you will change into your `itmd-362-pp`
