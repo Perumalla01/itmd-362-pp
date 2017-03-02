@@ -192,6 +192,7 @@ img, audio, video {
 */
 
 html {
+  font-family: Calibri, gothic, centurygothic, arial, sans-serif;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
@@ -202,9 +203,28 @@ label {
   display: block;
 }
 
+h1 {
+  padding-bottom: 1.182em;
+  color: # 121211;
+}
+
+		
+
+}
+#email{
+
+		color:gray;
+}
+ #input-submit {
+         text-align: left;
+}
+
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
+label{
+font-family: 'open sans condensed', sans-serif;
+}
 
