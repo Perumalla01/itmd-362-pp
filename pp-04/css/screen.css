@@ -192,21 +192,27 @@ img, audio, video {
 */
 
 html {
-  font-family: Calibri, gothic, centurygothic, arial, sans-serif;
+  font-family: Optima, Segoe, gothic, centurygothic, arial, sans-serif;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
 
+
+h1 {
+	font-size: 1.20em; 
+	line-height: 3em;
+	font-family: 'open sans' , sans-serif;
+	text-align: left;
+	font-weight: 400;
+}
+
 label {
   display: block;
 }
 
-h1 {
-  padding-bottom: 1.182em;
-  color: # 121211;
-}
+
 
 		
 
@@ -221,10 +227,11 @@ h1 {
 
 /* ===== LAYOUT STYLES ====== */
 
+
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
-label{
+h1.wf-active{
 font-family: 'open sans condensed', sans-serif;
 }
 
