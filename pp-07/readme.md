@@ -26,11 +26,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL):https://developer.apple.com/ios/human-interface-guidelines/interaction/navigation/
+* How you implemented it in your sketch: We added a navigation bar because it lets people quickly and easily switch between categories, regardless of the current location.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL):https://developer.apple.com/ios/human-interface-guidelines/ui-controls/buttons/
+* How you implemented it in your sketch: WE want to use "Use verbs in titles" An action-specific title shows that a button is interactive and says what happens when you tap it. This will help new coming student understand the website well.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL):https://developer.apple.com/ios/human-interface-guidelines/ui-bars/search-bars/
+* How you implemented it in your sketch: Adding a search icon on our website will help the student to search whatever he/she is looking for quickly.
