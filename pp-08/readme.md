@@ -20,6 +20,6 @@ B. Emotional design levels of your object:
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.Simple and very usefull
-2.A website that easy to use and works correctly.
-3.Well designed page thats easy on eye
+<p>1.Simple and very usefull</p>
+<p>2.A website that easy to use and works correctly.</p>
+<p>3.Well designed page thats easy on eye</p>
