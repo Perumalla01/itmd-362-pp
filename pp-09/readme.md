@@ -13,13 +13,13 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.The option to zoom is available where supported
-2.Images are high or retina quality
-3.A consistent and clear way to navigate backwards on each screen is available
-4.Key actions are within the easiest to reach areas, or shortcuts and alternatives are provided to negate this
-5.Users know where they are on the site.
-6.Logged in user's name is displayed on the site
-7.Sample content
-8.College location and contact information
-9.Navigation is consistent on every page.
-10.Accessible navigation.
+## 1.The option to zoom is available where supported
+## 2.Images are high or retina quality
+## 3.A consistent and clear way to navigate backwards on each screen is available
+## 4.Key actions are within the easiest to reach areas, or shortcuts and alternatives are provided to negate this
+## 5.Users know where they are on the site.
+## 6.Logged in user's name is displayed on the site
+## 7.Sample content
+## 8.College location and contact information
+## 9.Navigation is consistent on every page.
+## 10.Accessible navigation.
